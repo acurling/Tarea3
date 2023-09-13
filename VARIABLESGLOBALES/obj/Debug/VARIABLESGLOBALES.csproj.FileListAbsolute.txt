@@ -1,0 +1,56 @@
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\csc.exe
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\System.Collections.Immutable.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\vbc.exe
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\VBCSCompiler.exe
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\VBCSCompiler.exe.config
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.dll.config
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.pdb
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.csprojResolveAssemblyReference.cache
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.pdb
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.ReportViewer.WebForms.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.SqlServer.Types.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\benjamin\documents\visual studio 2015\Projects\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\csc.exe
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\vbc.exe
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\VBCSCompiler.exe
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.dll.config
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\VARIABLESGLOBALES.pdb
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.csprojAssemblyReference.cache
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.csproj.CoreCompileInputs.cache
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.csproj.CopyComplete
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.dll
+C:\Users\UPI\Desktop\Respaldo\Programacion 3\VARIABLESGLOBALES\VARIABLESGLOBALES\obj\Debug\VARIABLESGLOBALES.pdb
